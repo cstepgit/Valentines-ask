@@ -26,7 +26,6 @@ noButton.addEventListener("click", function () {
 });
 
 yesButton.addEventListener("click", function () {
-    
 
     if (noClicks == 2) {
         let dotsCount = 0;
